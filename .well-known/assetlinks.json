@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.delivery.deliveryeats",
-    "sha256_cert_fingerprints": ["TU_SHA256_AQUÍ"]
+    "sha256_cert_fingerprints": ["6B:75:15:BA:62:A0:CC:43:E5:7A:34:B7:06:AC:94:5F:74:44:EB:F0:DB:58:38:9B:DE:91:38:DB:17:C2:E1:FA"]
   }
 }]
